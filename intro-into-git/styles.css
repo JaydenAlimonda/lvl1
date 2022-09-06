@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(150, 20, 130, .50);
+}
+.txt1{
+font-style:oblique;
+font: size 20px;
+color:red;
+}
+.txt2{
+    border: 2px solid black;
+    padding: 2px;
+font: size 15px;
+color:green;
+}
+.TTL {
+
+    font-size: 80px;
+    font-style: bold;
+}
+.img1{
+    padding-left: 3in;
+    display: inline;
+    height: 100px;
+}
+.img2{
+    display: inline;
+    height: 100px;
+}
+
+.jsImage {
+    height: 500px;
+    width: 500px;
+}
